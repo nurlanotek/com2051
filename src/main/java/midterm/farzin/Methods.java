@@ -51,6 +51,7 @@ public class Methods {
             i++;
         }
 
+        // this part of the code is never reached.
         System.out.println("New array: " + "place is not working");
         for (int i=0; i<S; i++){
             System.out.print(new_arr[i]+",");
